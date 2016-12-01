@@ -1,4 +1,4 @@
-import {Component} from '@angular/core';
+import { Component } from '@angular/core';
 
 @Component({
     selector: 'my-playground',
@@ -7,10 +7,10 @@ import {Component} from '@angular/core';
     `
 })
 
-export interface Person{
-    firstName: string;
-    lastName: string;
-}
+//export interface Person{
+//    firstName: string;
+//    lastName: string;
+//}
 
 //function getName(person: Person) {
 //    return person.firstName + ' ' + person.lastName;
